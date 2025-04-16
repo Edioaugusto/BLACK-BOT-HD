@@ -4,11 +4,11 @@ return `༒W̷E̷L̷C̷O̷M̷E̷༒
 
 『 𝐌𝐄𝐍𝐔✮𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐒 』
 ╭════════════════════╯
- | ೈ፝͜͡💿 ${prefix}play (nome ou link)
- | ೈ፝͜͡💿 ${prefix}play2 (nome ou link)
- | ೈ፝͜͡💿 ${prefix}play3 (nome ou link)
- | ೈ፝͜͡💿 ${prefix}play4 (nome ou link)
- | ೈ፝͜͡💿 ${prefix}play5 (nome ou link)
+ | ೈ፝͜͡💿 ${prefix}song (nome ou link)
+ | ೈ፝͜͡💿 ${prefix}song2 (nome ou link)
+ | ೈ፝͜͡💿 ${prefix}song3 (nome ou link)
+ | ೈ፝͜͡💿 ${prefix}song4 (nome ou link)
+ | ೈ፝͜͡💿 ${prefix}song5 (nome ou link)
  | ೈ፝͜͡💿 ${prefix}spotify (nome da música)
  | ೈ፝͜͡💿 ${prefix}playlist (nome ou link)
  | ೈ፝͜͡💿 ${prefix}ytsearch (nome da música)
