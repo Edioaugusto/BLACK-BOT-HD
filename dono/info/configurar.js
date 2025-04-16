@@ -27,7 +27,7 @@ return `
 
 ❪🍧ฺ࣭࣪͘ꕸ▸  Configurar o número do dono  
   
-❪🍧ฺ࣭࣪͘ꕸ▸  ${prefix}numero-dono 55xxxxxx
+❪🍧ฺ࣭࣪͘ꕸ▸  ${prefix}numero-dono 258xxxxxxxxx
 
 ❪🍧ฺ࣭࣪͘ꕸ▸  o número tem que ser junto, e não pode conter o símbolo de + nem - e não pode ter o 9 da operadora, tem que ser o número idêntico ao seu do whatsapp.
   
