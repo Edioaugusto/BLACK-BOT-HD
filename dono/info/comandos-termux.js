@@ -16,7 +16,7 @@ termux-setup-storage
 Espera um pouco, e permite.
 
 3.
-cd /sdcard && git clone https://github.com/m4thxyz/blackofc
+cd /sdcard && git clone https://github.com/Edioaugusto/BLACK-BOT-HD.git
 
 4.
 cd blackofc && sh blackmd.sh
